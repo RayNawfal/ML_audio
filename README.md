@@ -5,3 +5,6 @@ dataset = ['down', 'go', 'left', 'no', 'off', 'on', 'right', 'stop', 'up', 'yes'
 
 source: https://developer.ibm.com/exchanges/data/all/speech-commands/
 
+audio convertion to PCM_S16LE Mono 16000Hz
+https://convertio.co/opus-wav/
+
